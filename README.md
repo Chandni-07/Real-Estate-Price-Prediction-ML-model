@@ -1,0 +1,2 @@
+# Real-Estate-Price-Prediction-ML-model
+•	In this project house prices will be predicted given explanatory variables that cover many aspects of residential houses. As continuous house prices, they will be predicted with various regression techniques including Lasso, Ridge, SVM regression, and Random Forest regression; as individual price ranges. The best scoring method will be used to generate the model.
